@@ -3,14 +3,14 @@
   "nbformat_minor": 0,
   "metadata": {
     "colab": {
-      "name": "blank_swift.ipynb",
-      "version": "0.3.2",
+      "name": "blank_bash.ipynb",
+      "version": "1.0.0",
       "provenance": [],
       "collapsed_sections": []
     },
     "kernelspec": {
-      "name": "swift",
-      "display_name": "Swift"
+      "name": "bash",
+      "display_name": "Bash"
     }
   },
   "cells": [
